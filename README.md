@@ -11,6 +11,6 @@
 
 #### Contac 
 
-- 🌐 [Website] (https://frakxman.github.io/personal/html/index.html)
-- 💼 [LinkedIn] (https://www.linkedin.com/in/fabi%C3%A1n-rivera-restrepo-5588a2a7/)
-- 📧 [Email] (frakxman@hotmail.com)
+- 🌐 https://frakxman.github.io/personal/html/index.html
+- 💼 https://www.linkedin.com/in/fabi%C3%A1n-rivera-restrepo-5588a2a7/
+- 📧 frakxman@hotmail.com
