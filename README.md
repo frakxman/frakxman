@@ -1,6 +1,6 @@
 ### Hi everyone in the dev world, welcome to my Github profile 👋
 
-![header](https://frakxman.github.io/personal/assets/Logotipo1.png)
+![header](https://frakxman.github.io/Frikerx/My/tarjeta1.png)
 
 ###### Description
 
