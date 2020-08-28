@@ -11,6 +11,6 @@
 
 #### Contac 
 
-- 🌐 https://frakxman.github.io/personal/html/index.html
+- 🌐 https://frakxman.github.io/frikerx.dev/
 - 💼 https://www.linkedin.com/in/fabi%C3%A1n-rivera-restrepo-5588a2a7/
 - 📧 frakxman@hotmail.com
