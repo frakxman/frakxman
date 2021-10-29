@@ -1,6 +1,8 @@
 ### Hi everyone in the dev world, welcome to my Github profile 👋
 
-![header](https://user-images.githubusercontent.com/41605810/139372117-e6b909f8-0b38-4591-b3a6-b778f38d63fc.png)
+![header](https://user-images.githubusercontent.com/41605810/139375343-a50a85ef-4c51-40b5-94a1-ff11e9e4b43e.gif)
+
+
 
 ###### Description
 
@@ -9,8 +11,9 @@
 - 📗 Self-taught person. 
 - ⚙ If you can dream it, can do it!
 
-#### Contac 
+#### Contact 
 
 - 🌐 https://frakxman.github.io/frikerx.dev/
 - 💼 https://www.linkedin.com/in/fabi%C3%A1n-rivera-restrepo-5588a2a7/
+- 💚 https://platzi.com/p/frakxmanDev/
 - 📧 frakxman@hotmail.com
