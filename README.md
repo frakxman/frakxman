@@ -19,6 +19,6 @@
 #### Contact 
 
 - 🌐 https://frakxman.github.io/frikerx.dev/
-- 💼 https://www.linkedin.com/in/fabi%C3%A1n-rivera-restrepo-5588a2a7/
-- 💚 https://platzi.com/p/frakxmanDev/
+- 💼 https://www.linkedin.com/in/fabian-rivera-restrepo//
+- 💚 https://platzi.com/p/frakxDev/
 - 📧 frakxman@hotmail.com
