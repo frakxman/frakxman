@@ -24,7 +24,7 @@
 - 📧 frakxman@hotmail.com
 
 |  Language  |  Framework  | Dominance |
-|            |             |           |
+|------------|-------------|-----------|
 |   *HTML*   |   Vanilla   |    75%    |
 |            |   Prepos    |    50%    |
 |            |             |           |
