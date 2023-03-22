@@ -1,7 +1,7 @@
-### Hi everyone in the dev world, welcome to my Github profile 👋
+### Hi everyone in the dev world, welcome to my Github profile 👋 
+# My name is **Fabián Rivera**
 
 ![header](https://user-images.githubusercontent.com/41605810/139375343-a50a85ef-4c51-40b5-94a1-ff11e9e4b43e.gif)
-
 
 
 ###### Description
@@ -22,3 +22,22 @@
 - 💼 https://www.linkedin.com/in/fabian-rivera-restrepo//
 - 💚 https://platzi.com/p/frakxDev/
 - 📧 frakxman@hotmail.com
+
+| Language |  Framework  | Dominance |
+| -------- |  ---------  | --------- |
+|   HTML   |   Vanilla   |    75%    |
+|          |   Prepos    |    50%    |
+| -------- |  ---------  | --------- |
+|   CSS    |   Vanilla   |    75%    |
+|          |  Bootstrap  |    60%    |
+|          |  Tailwind   |    50%    |
+|          |    Sass     |    50%    |
+| -------- |  ---------  | --------- |
+| JS Front |   Vanilla   |    75%    |
+|          |   Angular   |    70%    |
+|          |    React    |    50%    |
+|          |     Vue     |    40%    |
+| JS Back  |    Node     |    40%    |
+|          |   Express   |    40%    |
+|          |    Nest     |    40%    |
+| -------- |  ---------  | --------- |
