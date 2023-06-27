@@ -14,7 +14,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frakxman&show_icons=true&theme=synthwave)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=frakxman&theme=synthwave)](https://github.com/frakxman/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frakxman&layout=compact&theme=synthwave)](https://github.com/frakxman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frakxman&layout=compact)](https://github.com/frakxman/github-readme-stats)
 
 #### Contact 
 
